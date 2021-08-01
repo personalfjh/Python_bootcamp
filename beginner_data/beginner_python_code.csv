@@ -1,0 +1,18 @@
+Days,Lesson,Description
+Day One,Use of Print,"Print is used to show data on the information that you want in the console of python,  ""\n"" is a newline."
+Day One,Use of Input,"Input is used to get information from the python console.
+Python interpreter checks the most intern command this means Input will be executed first"
+Day One,Use of variables,Third exercise day_1
+Day One,Final exercise Name Band Generator,
+Day Two,Data Types,"Understanding Data Type: String, Integer, Float, Boolean"
+Day Two,First exercise day_2,"Write a program that adds the digits in a 2 digit number. e.g. if the input was 35,
+ then the output should be 3 + 5 = 8"
+Day Two,Second exercise day_2,Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
+Day Two,Third exercise day_2,"Create a program using maths and f-Strings that tells us how many days, weeks, months we have left if we live until 90 years old"
+Day Two,Final exercise Tip Calculator,Tip calculator to be used with you friends
+Day Three,"Use of if, elif, else",Make a simple Roller coaster program.
+Day Three,First exercise day_3,Write a program that works out whether if a given number is an odd or even number.
+Day Three,Second exercise day_3,Write a program that interprets the Body Mass Index (BMI) based on a user's weight and height.
+Day Three,Third exercise day_3,"Write a program that works out whether if a given year is a leap year. A normal year has 365 days, leap years have 366, with an extra day in February."
+Day Three,Fourth exercise day_3,Build an automatic pizza order program.
+Day Three,Final exercise Love Calculator,You are going to write a program that tests the compatibility between two people.
